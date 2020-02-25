@@ -1,0 +1,25 @@
+{
+  "name": "testing-circle-ci",
+  "version": "1.0.0",
+  "description": "testing using jest frame work",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HKiwooma/testing-circle-ci.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "haruna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HKiwooma/testing-circle-ci/issues"
+  },
+  "homepage": "https://github.com/HKiwooma/testing-circle-ci#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
